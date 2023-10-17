@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_w6iYUWzpEe6u2bxX9fTFcg" label="TrainingProject" description="" language="java" technicalLabel="TRAININGPROJECT" author="_w6iYUmzpEe6u2bxX9fTFcg" productVersion="Talend Cloud Data Management Platform-8.0.1.20230418_1502-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/dmitry-kosarevsky99/talend-training.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_w7lhMGzpEe6u2bxX9fTFcg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_w6iYUmzpEe6u2bxX9fTFcg" login="dmitrijs.kosarevskis@trial25704.eu.talend.com" firstName="Dmitrijs" lastName="Kosarevskis" type="DQ"/>
+</xmi:XMI>
